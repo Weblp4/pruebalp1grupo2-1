@@ -6,4 +6,4 @@ __author__ = "Alumno"
 __date__ = "$30/09/2015 09:38:12 AM$"
 
 if __name__ == "__main__":
-    print "Goku salvara la tierra By:beell :v"
+    print "Vamos a Pikaras"
