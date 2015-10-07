@@ -1,0 +1,21 @@
+Grupo 1
+  Un obrero necesita calcular su salario semanal, el cual se obtiene de la siguiente manera: 
+  Si trabaja 40 horas o menos se le paga $16 por hora 
+  Si trabaja mas de 40 horas se le paga $16 por cada una de las primeras 40 horas y $20 por cada hora extra. 
+
+  Reescribir la condicional que imprime un mensaje diciendo si un número es par o
+  impar
+
+grupo 2
+
+ Leer 2 números; si son iguales que los multiplique, si el primero es mayor que el segundo que los reste y si no que los sume
+
+  Determinar la cantidad de dinero que recibirá un trabajador por concepto de las horas extras trabajadas en una empresa, sabiendo que cuando las horas de trabajo exceden de 40, el resto se consideran horas extras y que estas se pagan al doble de una hora normal cuando no exceden de 8; 
+  si las horas extras exceden de 8 se pagan las primeras 8 al doble de lo que se pagan las horas normales y el resto al triple.
+grupo 3
+
+Un supermercado ha puesto en oferta la venta al por mayor de cierto producto, ofreciendo un descuento del 15% por la compra de más de 3 docenas y 10% en caso contrario. Además por la compra de más de 3 docenas se obsequia una unidad del producto por cada docena en exceso sobre 3. Diseñe un algoritmo que determine el monto de la compra, el monto del descuento, 
+el monto a pagar y el número de unidades de obsequio por la compra de cierta cantidad de docenas del producto.
+
+Hacer un algoritmo que imprima el nombre de un artículo, clave, precio original y su precio con descuento. El descuento lo hace en base a la clave, 
+si la clave es 01 el descuento es del 10% y si la clave es 02 el descuento en del 20% (solo existen dos claves).
